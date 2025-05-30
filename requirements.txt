@@ -1,0 +1,7 @@
+sqlalchemy~=2.0.41
+psycopg2-binary
+lxml~=5.4.0
+addrparser~=0.2.0
+python-dotenv~=1.1.0
+dadata~=24.10.0
+matplotlib~=3.10.3
